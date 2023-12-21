@@ -1,0 +1,18 @@
+.flag {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.image {
+    margin: 30px;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 15px;
+    font-family: serif;
+    font-size: 25px;
+}
+
